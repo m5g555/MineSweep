@@ -4,6 +4,7 @@ package MineSweeper;
  *
  */
 //
+// This is a test
 import java.awt.*;
 public class Minesweeper 
 {
